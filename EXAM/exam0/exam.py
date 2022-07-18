@@ -1,4 +1,4 @@
-"""Exam0.jh3"""
+"""Exam0.jh4"""
 from typing import Optional
 
 def find_capital_letters(s: str) -> str:
