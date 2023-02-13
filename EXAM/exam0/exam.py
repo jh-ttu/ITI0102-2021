@@ -1,6 +1,7 @@
 """Exam0."""
 from typing import Optional
 
+
 def find_capital_letters(s: str) -> str:
     """
     Return only capital letters from the string.
