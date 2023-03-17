@@ -1,4 +1,4 @@
-"""Exam0.""" 
+"""Exam0."""  
 from typing import Optional
 
 
