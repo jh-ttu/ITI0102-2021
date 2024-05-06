@@ -1,3 +1,4 @@
+# my solution
 word = "spider"
 thousand = "1000"
 ten = 10
